@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="relative min-h-screen">
       <Image
-        src="/thegoat.jpeg"
+        src="https://s3.amazonaws.com/memecoin.tribes.xyz/images/thegoat.jpeg"
         alt="The GOAT"
         layout="fill"
         objectFit="cover"
